@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501122660984",
+    "firebase_url": "https://laboratorio09-598bf.firebaseio.com",
+    "project_id": "laboratorio09-598bf",
+    "storage_bucket": "laboratorio09-598bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501122660984:android:193e1f68bc9b617a",
+        "android_client_info": {
+          "package_name": "ar.edu.utn.frsf.isi.dam.laboratorio09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501122660984-eqghkg5ijgh3uc6eh4huc8as6707tffa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.edu.utn.frsf.isi.dam.laboratorio09",
+            "certificate_hash": "800204DD9C9DAE12B66A177E0CDB14C446D8260E"
+          }
+        },
+        {
+          "client_id": "501122660984-3594onbdufhrfgbu2l221201jsefvsro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIC7DjRtdXO5qmuM44QiqNu8NvYMHzNcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501122660984-3594onbdufhrfgbu2l221201jsefvsro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
